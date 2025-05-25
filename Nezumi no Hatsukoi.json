@@ -32,7 +32,7 @@
     "4": {
       "title": "Felicidade",
       "volume": "1",
-      "last_updated": "1766348940",
+      "last_updated": "1734812940",
       "groups": {
         "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-1-cap-4-o8cIpiD"
       }
@@ -48,9 +48,65 @@
     "6": {
       "title": "Amantes",
       "volume": "1",
-      "last_updated": "1766371020",
+      "last_updated": "1734835020",
       "groups": {
         "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-1-cap-6-I59MrF8"
+      }
+    },
+    "7": {
+      "title": "De verdade",
+      "volume": "2",
+      "last_updated": "1734912300",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-7-5BfEfCy"
+      }
+    },
+    "8": {
+      "title": "Abordagem",
+      "volume": "2",
+      "last_updated": "1734912360",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-8-kvxs5R0"
+      }
+    },
+    "9": {
+      "title": "Um sonho",
+      "volume": "2",
+      "last_updated": "1734916080",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-9-8BOZ94F"
+      }
+    },
+    "10": {
+      "title": "Encontro",
+      "volume": "2",
+      "last_updated": "1735008720",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-10-CNiBeUv"
+      }
+    },
+    "11": {
+      "title": "Vermelho",
+      "volume": "2",
+      "last_updated": "1735001580",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-11-s9kCvl1"
+      }
+    },
+    "12": {
+      "title": "Estilo de vida",
+      "volume": "2",
+      "last_updated": "1735001700",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-12-KnpoO3D"
+      }
+    },
+    "13": {
+      "title": "O parque",
+      "volume": "2",
+      "last_updated": "1735078680",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-2-cap-13-N0EPV48"
       }
     }
   }
