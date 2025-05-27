@@ -4,5 +4,14 @@
   "artist": "Ouseto Riku",
   "author": "Ouseto Riku",
   "cover": "https://mangadex.org/covers/ca33a142-58fb-4fee-88b9-36ef87f02c77/dfa8b1ed-c03f-41cc-8134-9a3f9fbf87f3.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1748310131",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-1-cap-1-Ig9jPOE"
+      }
+    }
+  }
 }
