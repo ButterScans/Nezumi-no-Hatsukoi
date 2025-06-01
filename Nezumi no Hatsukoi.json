@@ -157,15 +157,7 @@
         "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-3-cap-19-T0b3K4k"
       }
     },
-    "22": {
-      "title": "Messiah",
-      "volume": "3",
-      "last_updated": "1748395980",
-      "groups": {
-        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-3-cap-22-thfDQET"
-      }
-    },
-    "19.5": {
+    "20": {
       "title": "Deus",
       "volume": "3",
       "last_updated": "1748397380",
@@ -173,12 +165,20 @@
         "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-3-cap-20-pcamXB0"
       }
     },
-    "19.6": {
+    "21": {
       "title": "Salvação",
       "volume": "3",
       "last_updated": "1748397408",
       "groups": {
         "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-3-cap-21-h4R72W8"
+      }
+    },
+    "22": {
+      "title": "Messiah",
+      "volume": "3",
+      "last_updated": "1748395980",
+      "groups": {
+        "Butter Scan": "/proxy/api/imgur/chapter/nezumi-no-hatsukoi-vol-3-cap-22-thfDQET"
       }
     }
   }
